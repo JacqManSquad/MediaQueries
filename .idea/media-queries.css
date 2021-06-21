@@ -1,37 +1,6 @@
 
 
 @media screen and (min-width:320px) and (max-width: 767px) {
-    /** {*/
-    /*    box-sizing: border-box;*/
-    /*    !*}*!*/
-    /*    !*body {*!*/
-    /*    !*    margin: 0;*!*/
-    /*    !*}*!*/
-    /*    !*nav {*!*/
-    /*    !*    display: flex;*!*/
-    /*    !*    background: #333333;*!*/
-    /*    !*}*!*/
-
-    /*    !*.nav-items{*!*/
-    /*    !*    display: flex;*!*/
-
-    /*    !*}*!*/
-    /*    !*ul {*!*/
-    /*    !*    list-style: none;*!*/
-    /*    !*    padding: 0;*!*/
-    /*    !*    margin: 0;*!*/
-    /*    !*}*!*/
-    /*    !*nav a {*!*/
-    /*    !*    text-decoration: none;*!*/
-    /*    !*    color: white;*!*/
-    /*    !*    font-family: Verdana;*!*/
-    /*    !*}*!*/
-    /*    !*nav a:hover {*!*/
-    /*    !*    background: black;*!*/
-    /*    !*}*!*/
-    /*    margin: 0;*/
-    /*    padding: 0;*/
-    /*}*/
 
     body {
 
@@ -139,7 +108,6 @@
     nav {
        display: flex;
         justify-content: flex-end;
-        background-color: lightblue;
 
     }
 
